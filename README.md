@@ -11,6 +11,6 @@ My goal is to do research on self-balancing-bicycle. It is the first step. Any c
 * Open a terminal and run ```catkin_make```
 * Open a terminal and run ```roslaunch bicycle_gazebo main.launch```
 
-The simulation should look like the image below 
+The simulation should look like the image above
 
 
